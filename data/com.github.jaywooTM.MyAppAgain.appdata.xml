@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2018 jaywooTM -->
+<component type="desktop">
+    <id>com.github.jaywooTM.MyAppAgain</id>
+    <metadata_license>CC0</metadata_license>
+    <name>MyAppAgain</name>
+    <summary>MyAppAgain - Doing great!</summary>
+    <description>
+        <p>This will be making elementaryOS prosper.</p>
+    </description>
+    <!-- For other purposes -->
+    <custom>
+     <value key="x-appcenter-color-primary">#603461</value>
+     <value key="x-appcenter-color-primary-text">rgb(255, 255, 255)</value>
+     <value key="x-appcenter-suggested-price">5</value>
+    </custom>
+</component>
